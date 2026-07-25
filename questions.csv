@@ -1,0 +1,101 @@
+Question,A,B,C,D,Correct
+What are the correct FTP ports?,20/21,22/23,24/21,25/23,22/23
+What is the capital of France?,Berlin,Madrid,Paris,Rome,Paris
+Which programming language is mainly used with Tkinter?,Java,Python,C++,JavaScript,Python
+What does HTTP stand for?,HyperText Transfer Protocol,HighText Transfer Protocol,Hyper Transfer Text Protocol,Home Transfer Text Protocol,HyperText Transfer Protocol
+Which port does HTTP use by default?,80,21,22,443,80
+Which port does HTTPS use?,80,21,22,443,443
+Which protocol is used for secure remote login?,FTP,SSH,SMTP,HTTP,SSH
+Which port is commonly used for SSH?,20,21,22,23,22
+What does DNS stand for?,Domain Name System,Data Network Service,Domain Network Server,Dynamic Name Service,Domain Name System
+Which protocol translates domain names into IP addresses?,FTP,DNS,DHCP,SMTP,DNS
+Which company created Python?,Google,Microsoft,Python Software Foundation,Apple,Python Software Foundation
+Who created Python?,Dennis Ritchie,Guido van Rossum,James Gosling,Bjarne Stroustrup,Guido van Rossum
+Which keyword creates a function in Python?,func,function,define,def,def
+Which symbol starts a comment in Python?,//,#,/*,--,#
+Which data type stores True or False?,int,float,bool,string,bool
+Which loop repeats while a condition is true?,for,repeat,while,loop,while
+Which loop iterates over a sequence?,repeat,for,loop,while,for
+Which keyword exits a loop?,stop,break,exit,return,break
+Which keyword skips the current iteration?,continue,next,skip,pass,continue
+Which keyword defines a class?,class,object,new,struct,class
+Which file extension is used for Python files?,.java,.cpp,.py,.js,.py
+Which library is used for data analysis in Python?,pygame,pandas,tkinter,numpy,pandas
+Which function reads a CSV file in Pandas?,open_csv(),read(),pd.read_csv(),csv.load(),pd.read_csv()
+Which function writes a DataFrame to CSV?,to_excel(),to_json(),to_csv(),save_csv(),to_csv()
+What does CSV stand for?,Comma Separated Values,Computer Saved Values,Column Standard Value,Common Shared Variables,Comma Separated Values
+Which keyword imports a module?,include,using,import,require,import
+Which method displays text in Tkinter?,show(),display(),config(),Label(),Label()
+Which widget displays text?,Entry,Label,Button,Canvas,Label
+Which widget accepts user input?,Label,Button,Entry,Frame,Entry
+Which widget is clickable?,Label,Button,Frame,Canvas,Button
+Which layout manager arranges widgets in rows and columns?,pack,grid,place,align,grid
+Which layout manager stacks widgets?,grid,pack,place,order,pack
+Which layout manager positions widgets using coordinates?,pack,grid,place,align,place
+Which method starts the Tkinter application?,run(),start(),mainloop(),execute(),mainloop()
+Which keyword declares a global variable?,public,global,shared,extern,global
+Which operator checks equality?,=,==,!=,===,==
+Which operator means 'not equal'?,<>,!=,==,=,!=
+Which function prints output?,echo(),display(),print(),write(),print()
+Which function gets keyboard input?,scan(),read(),input(),enter(),input()
+Which type stores decimal numbers?,int,bool,float,list,float
+Which collection uses square brackets?,tuple,set,list,dict,list
+Which collection uses curly braces with key-value pairs?,list,tuple,dict,array,dict
+Which collection cannot be changed after creation?,list,set,tuple,dict,tuple
+Which function returns the length of a list?,count(),length(),len(),size(),len()
+Which keyword creates an exception handler?,catch,try,except,error,try
+Which keyword handles exceptions in Python?,catch,except,error,handle,except
+Which protocol sends emails?,HTTP,FTP,SMTP,DNS,SMTP
+Which protocol receives email?,FTP,POP3,SSH,DHCP,POP3
+Which protocol automatically assigns IP addresses?,DNS,DHCP,FTP,SMTP,DHCP
+What does IP stand for?,Internet Protocol,Internal Protocol,Internet Package,Internal Package,Internet Protocol
+Which IP version is most common today?,IPv2,IPv4,IPv5,IPv7,IPv4
+How many bits are in an IPv4 address?,16,32,64,128,32
+Which IP version uses 128 bits?,IPv4,IPv5,IPv6,IPv8,IPv6
+Which device forwards packets between networks?,Hub,Switch,Router,Repeater,Router
+Which device works using MAC addresses?,Router,Switch,Firewall,Modem,Switch
+Which device connects a home network to the Internet?,Switch,Router,Hub,Bridge,Router
+Which command checks network connectivity?,ping,dir,copy,move,ping
+Which command displays IP configuration on Windows?,ipconfig,ifconfig,ping,tracert,ipconfig
+Which command traces a route?,route,ping,tracert,dns,tracert
+Which operating system is open source?,Windows,macOS,Linux,DOS,Linux
+Which company develops Windows?,Apple,Google,Microsoft,IBM,Microsoft
+Which language is mainly used for web page structure?,CSS,HTML,Python,SQL,HTML
+Which language styles web pages?,HTML,CSS,Python,SQL,CSS
+Which language adds interactivity to web pages?,Python,JavaScript,C++,Java,JavaScript
+Which tag creates a hyperlink in HTML?,<p>,<a>,<img>,<div>,<a>
+Which HTML tag displays an image?,<img>,<picture>,<image>,<photo>,<img>
+Which CSS property changes text color?,font,color,text-color,paint,color
+Which CSS property changes background color?,background,background-color,bgcolor,fill,background-color
+Which symbol selects an ID in CSS?,.,#,*,: ,#
+Which symbol selects a class in CSS?,#,.,*,@,.
+Which database language is SQL used for?,Networking,Databases,Graphics,AI,Databases
+Which SQL command retrieves data?,GET,FETCH,SELECT,SHOW,SELECT
+Which SQL command inserts data?,PUT,INSERT,ADD,NEW,INSERT
+Which SQL command deletes data?,DELETE,REMOVE,CLEAR,DROP,DELETE
+Which SQL command updates data?,CHANGE,MODIFY,UPDATE,ALTER,UPDATE
+Which SQL command creates a table?,BUILD,MAKE,CREATE,NEW,CREATE
+Which keyword sorts query results?,ORDER BY,SORT,FILTER,GROUP,ORDER BY
+Which keyword filters rows?,WHERE,FILTER,SEARCH,FIND,WHERE
+Which Git command downloads a repository?,push,pull,clone,commit,clone
+Which Git command uploads commits?,clone,pull,push,fetch,push
+Which Git command saves changes locally?,save(),push(),commit(),upload(),commit()
+Which Git command checks repository status?,git status,git info,git check,git state,git status
+Which platform hosts Git repositories?,GitHub,Facebook,Twitter,Discord,GitHub
+Which IDE is made by JetBrains?,VS Code,PyCharm,Notepad++,Sublime,PyCharm
+Which file stores Python packages?,requirements.txt,packages.txt,libs.txt,modules.txt,requirements.txt
+Which command installs packages?,pip install,pip get,pip add,pip load,pip install
+Which package manager does Python use?,npm,pip,apt,yum,pip
+Which symbol is used for lambda functions?,=>,lambda,func,->,lambda
+Which keyword returns a value?,return,send,yield,out,return
+Which module creates GUIs in Python?,pygame,pandas,tkinter,flask,tkinter
+Which library is commonly used for numerical computing?,numpy,pandas,requests,pygame,numpy
+Which HTTP method retrieves data?,GET,POST,PUT,DELETE,GET
+Which HTTP method creates data?,POST,GET,PUT,FETCH,POST
+Which HTTP method updates data?,UPDATE,PUT,PATCH,POST,PUT
+Which HTTP method deletes data?,REMOVE,DELETE,DROP,CLEAR,DELETE
+Which status code means OK?,100,200,404,500,200
+Which status code means Not Found?,200,301,404,500,404
+Which status code means Internal Server Error?,200,301,404,500,500
+Which status code means Forbidden?,401,403,404,500,403
+Which status code means Unauthorized?,400,401,403,500,401
